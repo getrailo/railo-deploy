@@ -1,0 +1,38 @@
+LICENSE AGREEMENT/DISCLAIMER FOR RAILO
+
+Permission to use, copy, modify and distribute this software and its
+documentation for any purpose and without fee is hereby granted, provided
+that
+the above copyright notice appear in all copies, that both the copyright
+notice and this permission notice appear in supporting documentation and
+that
+the name of "Railo Technologies GmbH"  not be used in advertising or publicity
+pertaining to distribution of the software without specific, written prior
+permission. "Railo Technologies GmbH" makes no representations about the
+suitability
+of this software for any purpose. It is provided "as is" without express or
+implied warranty. 
+"Railo Technologies GmbH" DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE,
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT
+SHALL "Railo Technologies GmbH" BE LIABLE FOR ANY SPECIAL, INDIRECT OR
+CONSEQUENTIAL
+DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
+PROFITS,
+WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+ARISING
+OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE. 
+
+THIRD PARTY SOFTWARE LICENSE
+Third Party Software is licensed to Licensee in accordance with a separate 
+license agreement(s) included with the Software, and subject to any 
+restrictions set forth herein. 
+Licensee agrees to abide by the terms and conditions of the Third Party 
+Software license agreements. Licensor will have no responsibility with 
+respect to any Third Party Software, and Licensee will look solely to 
+the licensor(s) of the Third Party Software for any remedy. 
+Licensor claims no right in the Third Party Software, and the same is
+owned exclusively by the licensor(s) of the Third Party Software. 
+LICENSOR PROVIDES NO WARRANTY, EXPRESS OR IMPLIED, INCLUDING BUT NOT 
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, WITH RESPECT TO ANY 
+THIRD PARTY SOFTWARE.
